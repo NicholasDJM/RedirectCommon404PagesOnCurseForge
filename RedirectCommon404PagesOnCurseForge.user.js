@@ -6,6 +6,7 @@
 // @author       Nicholas Miller
 // @updateURL    https://raw.githubusercontent.com/NicholasDJM/RedirectCommon404PagesOnCurseForge/main/RedirectCommon404PagesOnCurseForge.user.js
 // @downloadURL  https://raw.githubusercontent.com/NicholasDJM/RedirectCommon404PagesOnCurseForge/main/RedirectCommon404PagesOnCurseForge.user.js
+// @run-at       document-start
 // @match        https://www.curseforge.com/minecraft/mc-mods/
 // @match        https://www.curseforge.com/minecraft/texture-packs/
 // @match        https://www.curseforge.com/minecraft/worlds/
