@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Redirect Common 404 Pages on Curseforge
 // @namespace    http://github.com/NicholasDJM/RedirectCommon404PagesOnCurseForge
-// @version      0.1
+// @version      0.2
 // @description  Some pages on CurseForge return a 404 page, when they should just return a list of mods.
 // @author       Nicholas Miller
 // @updateURL    https://raw.githubusercontent.com/NicholasDJM/RedirectCommon404PagesOnCurseForge/main/RedirectCommon404PagesOnCurseForge.user.js
